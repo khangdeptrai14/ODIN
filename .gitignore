@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/
+data/processed/
+results/
+*.log
+AGENTS.md
+docs/ARCHITECTURE.md
+docs/CURRENT_TASK.md
+docs/HANDOFF.md
+docs/PROJECT.md
